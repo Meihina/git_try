@@ -2,4 +2,8 @@ function a(){
     console.log('taste my dick')
 }
 
-var b = 100
+var nmsl = 2990
+
+function b(){
+    console.log('woqunimade')
+}
